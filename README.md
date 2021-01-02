@@ -1,6 +1,5 @@
 # css-flexbox
 
-Um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. Resultado do curso CSS Flexbox da Origamid.
+A responsive CSS layout using only Flexbox properties.
 
-
-Acesse o site em: https://rodrigopuls.github.io/css-flexbox/
+Live Preview: https://rodrigopuls.github.io/css-flexbox/
